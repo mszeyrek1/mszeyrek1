@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello 👋, My name is Muhammed Settar Zeyrek!
+
+I'm an Applied Computer Science Student at Technische Universität Dortmund and I focus on systems programming with C/C++ and designing the Front-End with JavaFX, as well as cyber security, where I currently try to dive into.
+
+Tools like Git help me versionate these projects.
+
+I use Windows and PopOS Linux and am versed with Kali Linux as well.
+
+Always open to broaden my horizon with new technologies and new fields of Computer Science!
 
 <!--
 **mszeyrek1/mszeyrek1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
