@@ -8,6 +8,16 @@ I use Windows and PopOS Linux and am versed with Kali Linux as well.
 
 Always open to broaden my horizon with new technologies and new fields of Computer Science!
 
+
+🔭 Projects
+- jcprozessmanager: A simple process manager in C to monitor and control system processes, inspired with Unix tools, with the Front-End mostly done in JavaFX (work in progress :D)
+- simpleprojects: A collection of fun and small C/C++ projects, like algortithms, and a calculator for example.
+- cybersec-portfolio: My experiences doing pentests, write-ups with CTF challenges and ethical hacking scripts(under development).
+
+
+📫 Get in Touch
+- Email: mszeyrek06@gmail.com
+- LinkedIn:
 <!--
 **mszeyrek1/mszeyrek1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
