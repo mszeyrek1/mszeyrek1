@@ -1,6 +1,6 @@
 ## Hello 👋, My name is Muhammed Settar Zeyrek!
 
-I'm an Applied Computer Science Student at Technische Universität Dortmund and I focus on systems programming with C/C++ and designing the Front-End with JavaFX, as well as cyber security, where I currently try to dive into.
+I'm an Applied Computer Science Student at Technische Universität Dortmund and I focus C++-Programming, as well as Machine Learning and AI, where I currently try to dive into.
 
 Tools like Git help me versionate these projects.
 
@@ -10,9 +10,8 @@ Always open to broaden my horizon with new technologies and new fields of Comput
 
 
 🔭 Projects
-- jcprozessmanager: A simple process manager in C to monitor and control system processes, inspired with Unix tools, with the Front-End mostly done in JavaFX (work in progress :D)
-- simpleprojects: A collection of fun and small C/C++ projects, like algortithms, and a calculator for example.
-- cybersec-portfolio: My experiences doing pentests, write-ups with CTF challenges and ethical hacking scripts(under development).
+- simple-cpp-projects: A collection of fun and small C/C++ projects, like algortithms, and a calculator for example.
+
 
 
 📫 Get in Touch
