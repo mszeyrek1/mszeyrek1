@@ -10,7 +10,7 @@ Always open to broaden my horizon with new technologies and new fields of Comput
 
 
 🔭 Projects
-- simple-cpp-projects: A collection of fun and small C/C++ projects, like algortithms, and a calculator for example.
+- simple-cpp-projects: A collection of fun and small C/C++ projects, like algorithms, and a calculator for example.
 
 
 
