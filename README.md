@@ -1,6 +1,6 @@
 ## Hello 👋, My name is Muhammed Settar Zeyrek!
 
-I'm an Applied Computer Science Student at Technische Universität Dortmund and I focus C++-Programming, as well as Machine Learning and AI, where I currently try to dive into.
+I'm an Applied Computer Science Student at Technische Universität Dortmund and I focus on C++-Programming, as well as Machine Learning and AI, where I currently try to dive into.
 
 Tools like Git help me versionate these projects.
 
